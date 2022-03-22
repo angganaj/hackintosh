@@ -1,10 +1,10 @@
 # BASE EFI Intel Rocket Lake
 
-Note|Description
+Note|Description tes tes
 :----|:----
 Initial macOS Support|macOS 10.15, Catalina.
 
-- Opencore version: 0.7.5
+- Opencore version: 0.7.5 tes test test
 - Release date: 01/11/2021
 
 # Basic Steps
