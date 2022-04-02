@@ -2,7 +2,7 @@
 
 Note|Description tes tes
 :----|:----
-Initial macOS Support|macOS 10.15, Catalina.
+Initial macOS Support|macOS 10.15, Catalina. - Monterey
 
 - Opencore version: 0.7.5 kedua
 - Release date: 01/11/2021
